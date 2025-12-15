@@ -8,3 +8,4 @@ sphinx_rtd_theme
 mock
 matplotlib
 tensorflow==1.4.0
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
